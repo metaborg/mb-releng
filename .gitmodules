@@ -80,5 +80,5 @@
   branch = develop/nabl2
 [submodule "flowspec"]
   path = flowspec
-  url = http://github.com/metaborg/flowspec.git
+  url = https://github.com/metaborg/flowspec.git
   branch = develop/nabl2
